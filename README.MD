@@ -1,6 +1,6 @@
 # VS Code Settings
 
-## Making it easy to duplicate my environment on new machines.
+*Making it easy to duplicate my environment on new machines.*
 
 
 code --list-extensions | xargs -L 1 echo code --install-extension

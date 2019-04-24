@@ -1,9 +1,11 @@
 {
-  "editor.tabSize": 2,
-  "workbench.startupEditor": "newUntitledFile",
   "editor.fontFamily": "FiraCode-Retina",
   "editor.fontSize": 14,
   "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.snippetSuggestions": "top",
+  "editor.tabSize": 2,
   "window.zoomLevel": -1,
-  "workbench.colorTheme": "Monokai Dark Soda"
+  "workbench.colorTheme": "Monokai Dark Soda",
+  "workbench.startupEditor": "newUntitledFile",
 }
